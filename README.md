@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I invite you to follow me on [:bird: twitter][twitter] and/or here in [:octocat: github][github].
+
+Meanwhile you can see how my github stats grow every day 😆
+
+![github stats]
+
+
+[twitter]: https://twitter.com/wakematta
+[github]: https://github.com/wakematta
+[github stats]: https://github-readme-stats.vercel.app/api?username=wakematta&theme=vue&show_icons=true&count_private=true&hide_title=true
